@@ -84,9 +84,11 @@
 
 ---
 
-### 🏆 Recognitions
+### 🏆 Ninja Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Partha033&theme=tokyonight&no-frame=true&margin-w=15&column=4" />
+  <img src="https://img.shields.io/badge/MERN--Stack-Architect-58A6FF?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Open--Source-Ninja-32CD32?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Clean--Code-Practitioner-FFD700?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
