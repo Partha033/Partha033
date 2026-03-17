@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Wonder Worth Solutions**
-- 🎓 B.Tech IT Graduate (CGPA: 8.17)
+- 💼 Software Developer 
+- 🎓 B.Tech IT Graduate 
 - 🌱 Currently working on **MERN & GraphQL Applications**
 - ⚡ Passionate about building scalable and clean UI apps
 - 📍 Bangalore, India
