@@ -7,49 +7,66 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Scalable%20Systems-0E75B6?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20IN-58A6FF?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Partha033&label=Profile%20Impact&color=58A6FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/System-Active-32CD32?style=for-the-badge&logo=render&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Focus-Scalability-58A6FF?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Partha033&label=Network%20Reach&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
 
 ### ⚡ Technical Manifesto
-> "I don't just write code; I architect digital ecosystems that scale."
+> *"Code is the bridge between imagination and reality. I build the bridge to last."*
 
-* 🛠️ **The Core:** Expert in building robust RESTful & GraphQL APIs using **Node.js** and **Express**.
-* 🗄️ **Data Modeling:** High-performance schema design with **MongoDB** (NoSQL) for high-traffic applications.
-* ⚛️ **Frontend Mastery:** Crafting reactive, state-driven interfaces with **React** and **Redux Toolkit**.
-* ☁️ **Workflow:** Version control enthusiast with a focus on **CI/CD**, clean architecture, and DRY principles.
+* **Backend Engine:** Architecting high-availability servers with **Node.js** and **Express**.
+* **Data Intelligence:** Advanced document modeling and aggregation pipelines in **MongoDB**.
+* **Frontend Performance:** Optimizing React reconciliation and state flow via **Redux Toolkit**.
+* **API Design:** Bridging data gaps with **GraphQL** and robust **RESTful** architectures.
 
 ---
 
-### 🏗️ Featured Engineering
+## 🏗️ Engineering Showcase
 
-#### 📊 [Nexus CRM](https://github.com/Partha033)
-*Enterprise-grade relationship management system with a focus on data integrity.*
-- **Stack:** React, Redux Toolkit, **Node.js**, **Express**, **MongoDB**, **GraphQL**.
-- **Impact:** Implemented centralized state management and optimized GraphQL queries to reduce data over-fetching by 40%.
-
-#### 🛒 [Aurora E-Commerce](https://github.com/Partha033)
-*Modern storefront designed for high-conversion and performance.*
-- **Stack:** React, Tailwind CSS, Node.js, MongoDB.
-- **Impact:** Built a fully responsive UI with integrated authentication and a dynamic product management system.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Nexus CRM</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,redux" /><br><br>
+      <b>Focus:</b> Solving complex data relationships for enterprise scaling.
+      <ul>
+        <li>Implemented <b>JWT-based</b> multi-level auth systems.</li>
+        <li>Designed <b>Mongoose</b> schemas for high-speed indexing.</li>
+        <li>Reduced API payload size by 40% using <b>GraphQL</b>.</li>
+      </ul>
+      <a href="https://github.com/Partha033"><b>Review Architecture →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Aurora E-Commerce</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,postman" /><br><br>
+      <b>Focus:</b> High-performance retail engine with seamless UX.
+      <ul>
+        <li>Integrated secure payment gateways via <b>Node.js</b>.</li>
+        <li>Custom <b>Express</b> middleware for error handling.</li>
+        <li>Built dynamic inventory logic with <b>MongoDB</b>.</li>
+      </ul>
+      <a href="https://github.com/Partha033"><b>Review Source →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ The Tech Ecosystem
 
-| Layer | Tools & Technologies |
+| Layer | Mastery |
 | :--- | :--- |
-| **Frontend** | `React`, `Redux Toolkit`, `Next.js`, `Tailwind CSS`, `HTML5/CSS3` |
-| **Backend** | `Node.js`, `Express.js`, `GraphQL`, `REST APIs`, `Java` |
-| **Database** | `MongoDB`, `Mongoose`, `Firebase` |
-| **DevOps** | `Git`, `GitHub Actions`, `Postman`, `Vercel`, `Linux` |
+| **✨ Frontend** | `React.js` • `Redux Toolkit` • `Next.js` • `Tailwind CSS` |
+| **⚙️ Backend** | `Node.js` • `Express.js` • `GraphQL` • `Java` |
+| **📊 Database** | `MongoDB` • `Mongoose` • `Firebase` |
+| **🛠️ Tools** | `Git` • `Docker` • `Postman` • `Vercel` • `Linux` |
 
 ---
 
-### 📈 Metrics & Performance
+### 📈 Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Partha033&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
@@ -76,5 +93,5 @@
 </p>
 
 <p align="center">
-  <sub>Built with Code & Coffee by Parthiban A | 2026</sub>
+  <sub>Generated with Precision | © 2026 Parthiban A</sub>
 </p>
