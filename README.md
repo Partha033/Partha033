@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=PARTHA🥷🏻;MERN+Stack+Developer+-Architect;Prompt+Engineer;Full-Cycle+Software+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PARTHA+%F0%9F%A5%B7%F0%9F%8F%BB;MERN+Stack+Architect;Prompt+Engineering+Expert;Full-Cycle+Software+Engineer">
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 * **Backend Engine:** Architecting high-availability servers with **Node.js** and **Express**.
 * **Data Intelligence:** Advanced document modeling and aggregation pipelines in **MongoDB**.
-* **AI & Automation:** Leveraging **Prompt Engineering** to accelerate development cycles and LLM integration.
+* **AI & Automation:** Leveraging **Prompt Engineering** to optimize LLM integration and dev-cycles.
 * **Frontend Performance:** Optimizing React reconciliation and state flow via **Redux Toolkit**.
 
 ---
@@ -77,9 +77,9 @@
   <img src="https://streak-stats.demolab.com?user=Partha033&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF" width="100%" />
 </p>
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=Partha033&outputs=color-graph&color_snake=58A6FF&color_dots=161b22,216e39,30a14e,40c463,9be9a8" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Partha033/Partha033/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
